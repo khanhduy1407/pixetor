@@ -1,0 +1,12 @@
+01 - Run grunt desktop on mac os x
+02 - Retrieve pixetor.new.dmg.zip on Dropbox. Unzip it.
+03 - Retrieve nw.icns on Dropbox
+04 - Go to pixetor/dest/desktop/releases/mac ; copy pixetor.app to your working directory
+05 - Expand pixetor.app
+06 - Replace nw.icns by the one from dropbox in Contents/Resources
+07 - Open pixetor.new.dmg
+08 - Drag and drop pixetor.app in it
+09 - Update readme.txt
+10 - Open disk utility, and open pixetor.new.dmg in it
+11 - Convert image, pixetor-x.y.z.dmg
+12 - Upload to Dropbox

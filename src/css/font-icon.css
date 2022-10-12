@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'pixetor';
+  src:url('fonts/icomoon.eot?-3olv93');
+  src:url('fonts/icomoon.eot?#iefix-3olv93') format('embedded-opentype'),
+    url('fonts/icomoon.woff?-3olv93') format('woff'),
+    url('fonts/icomoon.ttf?-3olv93') format('truetype'),
+    url('fonts/icomoon.svg?-3olv93#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="pixetor-icon-"], [class*=" pixetor-icon-"] {
+  font-family: 'pixetor';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pixetor-icon-eye:before {
+  content: "\e602";
+}
+
+.pixetor-icon-onion:before {
+  content: "\e601";
+}
+
+.pixetor-icon-download:before {
+  content: "\e600";
+}
+
+.pixetor-icon-rotateleft:before {
+  content: "\e603";
+}
+
+.pixetor-icon-rotateright:before {
+  content: "\e604";
+}
+
+.pixetor-icon-fliph:before {
+  content: "\e605";
+}
+
+.pixetor-icon-flipv:before {
+  content: "\e606";
+}
+
+.pixetor-icon-trashplain:before {
+  content: "\e607";
+}
+
+.pixetor-icon-trash:before {
+  content: "\e608";
+}
+
+.pixetor-icon-merge:before {
+  content: "\e609";
+}
+
+.pixetor-icon-pencil:before {
+  content: "\e610";
+}
+
+.pixetor-icon-close:before {
+  content: "\e611";
+}
+
+.pixetor-icon-minus:before {
+  content: "\e60a";
+}
+
+.pixetor-icon-plus:before {
+  content: "\e60b";
+}
+
+.pixetor-icon-arrow-up-fat:before {
+  content: "\e60c";
+}
+
+.pixetor-icon-arrow-down-fat:before {
+  content: "\e60d";
+}
+
+.pixetor-icon-arrow-up-thin:before {
+  content: "\e60e";
+}
+
+.pixetor-icon-arrow-down-thin:before {
+  content: "\e60f";
+}

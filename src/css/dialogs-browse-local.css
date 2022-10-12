@@ -1,0 +1,51 @@
+
+/************************************************************************************************/
+/* Browse local pixetors panel                                                                   */
+/************************************************************************************************/
+
+#dialog-container.browse-local {
+  width: 700px;
+  height: 500px;
+  top : 50%;
+  left : 50%;
+  position : absolute;
+  margin-left: -350px;
+}
+
+.show #dialog-container.browse-local {
+  margin-top: -250px;
+}
+
+.local-pixetor-list {
+  width: 100%;
+}
+
+.local-pixetor-item {
+  height: 3em;
+}
+
+.local-pixetor-name {
+  width: 40%;
+}
+
+.local-pixetor-save-date {
+  font-weight : normal;
+}
+
+.local-pixetor-list a {
+  text-decoration: none;
+}
+
+.local-pixetor-list a:hover {
+  text-decoration: underline;
+}
+
+.local-pixetor-list-head {
+  font-weight: bold;
+  color: var(--highlight-color);
+}
+
+.local-pixetor-load-button,
+.local-pixetor-delete-button {
+  width : 75px;
+}
